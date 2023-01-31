@@ -6,7 +6,7 @@ def start_chapter_1():
     
     # start of the chapter
     print("Chapter 1 -- Waking up")
-    print("______________")
+    print("______________________")
 
     # introduction
     print("\n Eileen Goldthorpe, an Estonian teenage girl, was fast asleep after a long and hectic day. She had been running around, trying to balance school work and extracurricular activities, and was exhausted.")

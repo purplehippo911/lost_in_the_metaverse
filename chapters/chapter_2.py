@@ -5,9 +5,9 @@ import random
 def start_chapter_2():
     # start of the chapter
     print("\n")
-    print("__________________")
+    print("______________________")
     print("Chapter 2 -- In school")
-    print("__________________")
+    print("______________________")
 
 
     # introduction
