@@ -1,2 +1,2 @@
 def start_chapter_2():
-    print("On chapter 2")
+    print("Chapter 2 -- In school")
