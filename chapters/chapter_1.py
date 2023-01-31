@@ -50,10 +50,8 @@ def start_chapter_1():
 
         ## checking what consequence the user got
         if first_dice == 0:
-            print(bus_good_consequence)
+            print(shortcut_good_consequence)
         else:
-            print(bus_bad_consequence)
+            print(shortcut_bad_consequence)
         time.sleep(5)
-
-
     
