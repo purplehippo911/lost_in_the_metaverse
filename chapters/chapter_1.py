@@ -22,7 +22,7 @@ def start_chapter_1():
     first_choice = input(" \n With the weight of the decision on her shoulders, Eileen must choose: should she wait for the BUS and risk being late for school, or should she take the SHORTCUT and hope for the best? This choice will determine if she makes it to school on time and sets the tone for the rest of her day. Choose BUS or SHORTCUT: ")
     
     ### consequences of the first choice
-    first_dice = random.randrange(0,1)
+    first_dice = random.randint(0,1)
     
     ### consequences of choosing bus
     bus_good_consequence = "Eileen decides to wait for the bus, she eventually arrives at school just in time for the first bell. She rushes to her locker, grabs her books, and rushes to class. Although she makes it to school on time, she is frazzled and stressed for the rest of the day, constantly worried about being late for her next class."
@@ -43,6 +43,7 @@ def start_chapter_1():
             print(bus_good_consequence)
         else:
             print(bus_bad_consequence)
+        time.sleep(5)
     else:
         print("You chose 'shortcut.' \n")
         time.sleep(3)
@@ -52,6 +53,7 @@ def start_chapter_1():
             print(bus_good_consequence)
         else:
             print(bus_bad_consequence)
+        time.sleep(5)
 
 
     
