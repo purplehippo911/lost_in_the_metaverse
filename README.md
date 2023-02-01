@@ -20,3 +20,10 @@ As she races against time, Eileen finds that the line between reality and virtua
 [@Muggie](https://twitter.com/muggie43)
 
 Story made with help by both ChatGPT-3 by OpenAI and ChatSonic by WriteSonic.
+
+## License
+
+This software is available under the following licenses:
+
+- MIT
+- Apache 2
