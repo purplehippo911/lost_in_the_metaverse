@@ -10,11 +10,11 @@ def start_chapter_1():
 
     # introduction
     print("\n Eileen Goldthorpe, an Estonian teenage girl, was fast asleep after a long and hectic day. She had been running around, trying to balance school work and extracurricular activities, and was exhausted.")
-    time.sleep(7)
+    time.sleep(9)
     print("\n The next morning, she wakes up in a panic, realizing she overslept and will be late for school. Eileen rushes to get dressed, grabbing a quick breakfast on the way out the door. As she makes her way to the bus stop, she checks the time and realizes the bus is running late.")
-    time.sleep(7)
+    time.sleep(9)
     print("\n Eileen begins to feel the pressure of time as she waits for the bus, knowing that every minute counts. She starts to weigh her options and decides she can't afford to wait for the bus any longer. Just then, she remembers a shortcut that would take her directly to school.")
-    time.sleep(7)
+    time.sleep(9)
 
     # choices
 
@@ -36,22 +36,22 @@ def start_chapter_1():
     ## checking the first choice
     if first_choice.lower() == "bus":
         print("You chose 'bus' \n")
-        time.sleep(3)
+        time.sleep(5)
 
         ## checking what consequence the user got
         if first_dice == 0:
             print(bus_good_consequence)
         else:
             print(bus_bad_consequence)
-        time.sleep(5)
+        time.sleep(9)
     else:
         print("You chose 'shortcut.' \n")
-        time.sleep(3)
+        time.sleep(5)
 
         ## checking what consequence the user got
         if first_dice == 0:
             print(shortcut_good_consequence)
         else:
             print(shortcut_bad_consequence)
-        time.sleep(5)
+        time.sleep(9)
     

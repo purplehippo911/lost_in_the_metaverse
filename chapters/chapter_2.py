@@ -12,11 +12,11 @@ def start_chapter_2():
 
     # introduction
     print("\n Eileen is one of the quieter students in class, preferring to keep to herself and avoid conflict.")
-    time.sleep(4)
-    print("\n However, she finds herself in a difficult situation when a group of bullies enters the room, led by a particularly cruel student who starts picking on another student. Eileen watches as the other students back away, afraid to get involved.")
     time.sleep(7)
+    print("\n However, she finds herself in a difficult situation when a group of bullies enters the room, led by a particularly cruel student who starts picking on another student. Eileen watches as the other students back away, afraid to get involved.")
+    time.sleep(9)
     print("\n Just as the situation seems to be escalating, Eileen steps in, using her words to try and diffuse the situation. Although the bully tries to tough it out, they eventually back down and challenge Eileen to a fight behind the basketball hoop after school.")
-    time.sleep(5)    
+    time.sleep(9)    
     # choices
 
     ## second choice
@@ -37,22 +37,22 @@ def start_chapter_2():
     ## checking the first choice
     if second_choice.lower() == "fight":
         print("You chose to 'fight' \n")
-        time.sleep(3)
+        time.sleep(5)
 
         ## checking what consequence the user got
         if second_choice == 0:
             print(fight_good_consequence)
         else:
             print(fight_bad_consequence)
-        time.sleep(5)
+        time.sleep(9)
     else:
         print("You chose to 'run.' away(or rather avoid) \n")
-        time.sleep(3)
+        time.sleep(5)
 
         ## checking what consequence the user got
         if second_dice == 0:
             print(run_good_consequence)
         else:
             print(run_bad_consequence)
-        time.sleep(5)
+        time.sleep(9)
     

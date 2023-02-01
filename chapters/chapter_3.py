@@ -12,11 +12,11 @@ def start_chapter_3():
 
     # introduction
     print("\n One afternoon, Eileen goes straight to her room without talking to her family or eating dinner. She was feeling a little frustrated as she trudged up the stairs. Before sleeping, yesterday, she had the chance to get her hands on the mysterious package she had been expecting. With a sigh, she finally arrived at her bedroom and closed the door behind her.")
-    time.sleep(4)
+    time.sleep(9)
     print("\n Upon opening the package, Eileen was surprised to find cutting-edge metaverse or future-generation virtual reality gear inside. She felt an overwhelming urge to try it on right away, but at the same time, her mother's voice echoed up the stairs, demanding that she come down and have dinner with the rest of the family. ")
-    time.sleep(7)
+    time.sleep(9)
     print("\n If she put it on now, she would be able to get a taste of the virtual world, but it could also cause her to miss out on whatever her mother had planned for dinner. On the other hand, if she didn't put it on now, she could join her family for dinner and find out what her mother wanted, but also miss out on the chance to explore the virtual world.")
-    time.sleep(5)    
+    time.sleep(9)    
     
     # choices
 
@@ -41,35 +41,31 @@ def start_chapter_3():
     ## checking the first choice
     if third_choice.lower() == "start":
         print("You chose to 'start' \n")
-        time.sleep(3)
+        time.sleep(5)
 
         print(start_consequence)
-        time.sleep(5)
+        time.sleep(9)
     else:
         print("You chose to 'wait.' \n")
-        time.sleep(3)
+        time.sleep(5)
 
         print(wait_consequence)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_2)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_3)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_4)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_5)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_6)
-        time.sleep(5)
+        time.sleep(9)
 
         print(wait_consequence_7)
-        time.sleep(5)
-
-
-
-    
+        time.sleep(9)
