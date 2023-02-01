@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: lost-in-the-metaverse-purplehippo911
+Version: 0.0.1
+Summary: A small RPG game run in the terminal
+Home-page: https://github.com/purplehippo911/lost_in_the_metaverse
+Author: Purplehippo911 (https://github.com/purplehippo911)
+Author-email: oceanrabbit0101@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: RPG Game
+Classifier: Topic :: Adventure Game
+License-File: LICENSE.MIT
+
+A RPG game made in Python about a girl attempting to escape her normal life and getting trapped in the metaverse.“As Eileen puts on the VR set, she is transported to a futuristic metaverse, where she is free to explore and experience new things. She falls into a virtual world, where she discovers she has the ability to create, explore, and manipulate her surroundings.However, her newfound freedom is short-lived, as she soon realizes that she is being pursued by an unknown entity. The robotic voice continues to ask her questions, and Eileen realizes that she has stumbled into a dangerous and unknown world.She tries to escape and find her way back to reality, but she is constantly pursued by the mysterious entity. Eileen must use her wits and her newfound abilities to evade her pursuer and find a way back to the real world. As she races against time, Eileen finds that the line between reality and virtual reality becomes blurred, and she must make choices that will determine her fate and the fate of those around her. Will she be able to find her way back to reality, or will she be trapped in the metaverse forever?'

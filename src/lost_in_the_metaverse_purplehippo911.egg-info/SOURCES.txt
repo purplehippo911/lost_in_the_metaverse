@@ -1,0 +1,14 @@
+LICENSE.MIT
+README.md
+main.py
+setup.py
+src/__init__.py
+src/drawing.py
+src/chapters/__init__.py
+src/chapters/chapter_1.py
+src/chapters/chapter_2.py
+src/chapters/chapter_3.py
+src/lost_in_the_metaverse_purplehippo911.egg-info/PKG-INFO
+src/lost_in_the_metaverse_purplehippo911.egg-info/SOURCES.txt
+src/lost_in_the_metaverse_purplehippo911.egg-info/dependency_links.txt
+src/lost_in_the_metaverse_purplehippo911.egg-info/top_level.txt

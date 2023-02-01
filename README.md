@@ -13,17 +13,22 @@ As she races against time, Eileen finds that the line between reality and virtua
 
 
 
-## Author and acknowledgments
+## Author
 
 [__**Purplehippo911**__](https://github.com/purplehippo911)
 
 [@Muggie](https://twitter.com/muggie43)
 
+## Acknowledgments
+
 Story made with help by both ChatGPT-3 by OpenAI and ChatSonic by WriteSonic.
+
+This repository helped me and inspired me on how to destribute my game and I learnt a lot from watching what they did. 
+
+Check it out here: [JSON.sh project](https://github.com/dominictarr/JSON.sh)
 
 ## License
 
 This software is available under the following licenses:
 
 - MIT
-- Apache 2

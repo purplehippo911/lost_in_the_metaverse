@@ -21,5 +21,8 @@ def start_drawing():
     ## red and blue drawing
     draw_square("red", "blue")
 
+    ## purple and pink drawing
+    draw_square("purple", "pink")
+
     ## close the screen after
     turtle.Screen().bye()
