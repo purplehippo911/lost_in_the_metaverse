@@ -1,22 +1,26 @@
 import time
 import random
 
+import colorama
+from colorama import Fore, Back, Style
+colorama.init(autoreset=True)
+
 # main function
 def start_chapter_2():
     # start of the chapter
     print("\n")
-    print("______________________")
-    print("Chapter 2 -- In school")
-    print("______________________")
+    print(" ______________________")
+    print(Fore.WHITE + Back.BLUE + "Chapter 2 -- In school")
+    print("______________________") 
 
 
     # introduction
     print("\n Eileen is one of the quieter students in class, preferring to keep to herself and avoid conflict.")
-    time.sleep(7)
+    time.sleep(5)
     print("\n However, she finds herself in a difficult situation when a group of bullies enters the room, led by a particularly cruel student who starts picking on another student. Eileen watches as the other students back away, afraid to get involved.")
-    time.sleep(9)
+    time.sleep(5)
     print("\n Just as the situation seems to be escalating, Eileen steps in, using her words to try and diffuse the situation. Although the bully tries to tough it out, they eventually back down and challenge Eileen to a fight behind the basketball hoop after school.")
-    time.sleep(9)    
+    time.sleep(5)    
     # choices
 
     ## second choice
@@ -37,14 +41,14 @@ def start_chapter_2():
     ## checking the first choice
     if second_choice.lower() == "fight":
         print("You chose to 'fight' \n")
-        time.sleep(5)
+        time.sleep(2)
 
         ## checking what consequence the user got
         if second_choice == 0:
             print(fight_good_consequence)
         else:
             print(fight_bad_consequence)
-        time.sleep(9)
+        time.sleep(5)
     else:
         print("You chose to 'run.' away(or rather avoid) \n")
         time.sleep(5)
@@ -54,5 +58,4 @@ def start_chapter_2():
             print(run_good_consequence)
         else:
             print(run_bad_consequence)
-        time.sleep(9)
-    
+        time.sleep(5)
