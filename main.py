@@ -4,10 +4,10 @@
 import time
 
 ## importing the start functions from the chapters and turtle drawing
-from chapters.chapter_1 import start_chapter_1
-from chapters.chapter_2 import start_chapter_2
-from chapters.chapter_3 import start_chapter_3
-from drawing import start_drawing
+from src.chapters.chapter_1 import start_chapter_1
+from src.chapters.chapter_2 import start_chapter_2
+from src.chapters.chapter_3 import start_chapter_3
+from src.drawing import start_drawing
 
 ## start the drawing function
 start_drawing()
