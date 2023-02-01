@@ -10,3 +10,13 @@ She tries to escape and find her way back to reality, but she is constantly purs
 As she races against time, Eileen finds that the line between reality and virtual reality becomes blurred, and she must make choices that will determine her fate and the fate of those around her. Will she be able to find her way back to reality, or will she be trapped in the metaverse forever?”
 
 ## how to try out the game
+
+
+
+## Author and acknowledgments
+
+[__**Purplehippo911**__](https://github.com/purplehippo911)
+
+[@Muggie](https://twitter.com/muggie43)
+
+Story made with help by both ChatGPT-3 by OpenAI and ChatSonic by WriteSonic.
